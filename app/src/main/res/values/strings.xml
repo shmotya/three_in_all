@@ -33,6 +33,12 @@
     <string name="secondCitationAuthor">-Walt Disney</string>
     <string name="thirdCitationAuthor">-Steve Jobs</string>
     <string name="emotions_header">Emotions</string>
+    <string name="about_author2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum porttitor elit non molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+        Etiam rutrum tempor justo id rhoncus. Etiam venenatis enim eget semper viverra. Aliquam non neque vitae ante efficitur volutpat. In nunc odio, scelerisque a eros eu, faucibus mollis ipsum. Fusce pellentesque ipsum a lacus malesuada, sit amet mattis nulla suscipit. Fusce tempor leo vel euismod iaculis. Sed lacinia vehicula arcu id convallis. Phasellus vestibulum libero sed faucibus mattis.
+
+        Curabitur sed nisl vel elit vestibulum ornare. Pellentesque non turpis eleifend, mattis mauris facilisis, cursus magna. Donec consectetur varius ultricies. Proin sagittis tellus ut tortor aliquet, at facilisis ante tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vitae felis facilisis, malesuada nulla eu, venenatis magna.</string>
+    <string name="author">Author</string>
 
 
 </resources>
