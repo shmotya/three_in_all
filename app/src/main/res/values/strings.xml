@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Three in All</string>
+    <string name="images">Images</string>
+    <string name="header">Make your choice</string>
+    <string name="anecdotes">anecdotes</string>
+    <string name="omens">omens</string>
+    <string name="citations">citations</string>
+    <string name="sea_image">sea image</string>
+    <string name="emotion_images">emotion images</string>
+    <string name="about_author">Author</string>
 </resources>
