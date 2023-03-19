@@ -8,7 +8,7 @@
     <string name="sea_image">sea image</string>
     <string name="emotion_images">emotion images</string>
     <string name="about_author">Author</string>
-    <string name="anecdotes_heafer">Anecdotes</string>
+    <string name="anecdotes_header">Anecdotes</string>
 
     <string name="firstAnecdote">
         Three tomatoes are walkin\' down the street. Papa Tomato, Mama Tomato and Baby Tomato. Baby Tomato starts lagging behind, and Papa Tomato gets really angry. Goes back and squishes him and says: «Catch up»
@@ -22,6 +22,13 @@
         There\'s an old joke - um… two elderly women are at a Catskill mountain resort, and one of \'em says, «Boy, the food at this place is really terrible». The other one says, «Yeah, I know; and such small portions».
     </string>
     <string name="split_text">* * *</string>
+    <string name="omens_header">Omens</string>
+    <string name="firstOmen">Breaking a mirror brings seven years of trouble. However, if you put a piece of a mirror under the ground, the curse will disappear. The ancient Romans decided that a broken mirror would cause seven years of trouble; in fact, at the time there was a belief that life would renew itself every seven years.</string>
+    <string name="secondOmen">This is undoubtedly one of the most widespread beliefs throughout Italy and beyond, but why should the crossing of a black cat be a bad omen? To discover the origin of this superstition, one must go back to the Middle Ages.</string>
+    <string name="thirdOmen">It is said that a drop of wax that falls along the side of a candle brings a lot of bad luck. Moreover, the spouses of Crana (Novara), after the wedding ceremony, blow together to blow out two candles. If they extinguish them at the same time, they will live long and happily together, otherwise, it is a sign of widowhood.</string>
+    <string name="firstOmenTitle"><u>Break a Mirror</u></string>
+    <string name="secondOmenTitle"><u>Black cat</u></string>
+    <string name="thirdOmenTitle"><u>Candle’s wax</u></string>
 
 
 </resources>
