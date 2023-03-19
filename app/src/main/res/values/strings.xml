@@ -32,6 +32,7 @@
     <string name="firstCitationAuthor">-Nelson Mandela</string>
     <string name="secondCitationAuthor">-Walt Disney</string>
     <string name="thirdCitationAuthor">-Steve Jobs</string>
+    <string name="emotions_header">Emotions</string>
 
 
 </resources>
