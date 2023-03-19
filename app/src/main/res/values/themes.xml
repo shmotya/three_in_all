@@ -78,5 +78,16 @@
 
     </style>
 
+    <style name="tvAnecdotes">
+
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textAlignment">textStart</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:textStyle">italic|bold</item>
+
+    </style>
+
     
 </resources>

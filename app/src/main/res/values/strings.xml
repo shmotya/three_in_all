@@ -8,4 +8,20 @@
     <string name="sea_image">sea image</string>
     <string name="emotion_images">emotion images</string>
     <string name="about_author">Author</string>
+    <string name="anecdotes_heafer">Anecdotes</string>
+
+    <string name="firstAnecdote">
+        Three tomatoes are walkin\' down the street. Papa Tomato, Mama Tomato and Baby Tomato. Baby Tomato starts lagging behind, and Papa Tomato gets really angry. Goes back and squishes him and says: «Catch up»
+    </string>
+
+    <string name="secondAnecdote">
+        I work harder than God. If He had hired me, He would have made the world by Thursday.
+    </string>
+
+    <string name="thirdAnecdote">
+        There\'s an old joke - um… two elderly women are at a Catskill mountain resort, and one of \'em says, «Boy, the food at this place is really terrible». The other one says, «Yeah, I know; and such small portions».
+    </string>
+    <string name="split_text">* * *</string>
+
+
 </resources>
