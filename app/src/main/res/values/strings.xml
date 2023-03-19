@@ -10,18 +10,13 @@
     <string name="about_author">Author</string>
     <string name="anecdotes_header">Anecdotes</string>
 
-    <string name="firstAnecdote">
-        Three tomatoes are walkin\' down the street. Papa Tomato, Mama Tomato and Baby Tomato. Baby Tomato starts lagging behind, and Papa Tomato gets really angry. Goes back and squishes him and says: «Catch up»
-    </string>
+    <string name="firstAnecdote">Three tomatoes are walkin\' down the street. Papa Tomato, Mama Tomato and Baby Tomato. Baby Tomato starts lagging behind, and Papa Tomato gets really angry. Goes back and squishes him and says: «Catch up»</string>
 
-    <string name="secondAnecdote">
-        I work harder than God. If He had hired me, He would have made the world by Thursday.
-    </string>
+    <string name="secondAnecdote">I work harder than God. If He had hired me, He would have made the world by Thursday.</string>
 
-    <string name="thirdAnecdote">
-        There\'s an old joke - um… two elderly women are at a Catskill mountain resort, and one of \'em says, «Boy, the food at this place is really terrible». The other one says, «Yeah, I know; and such small portions».
-    </string>
+    <string name="thirdAnecdote">There\'s an old joke - um… two elderly women are at a Catskill mountain resort, and one of \'em says, «Boy, the food at this place is really terrible». The other one says, «Yeah, I know; and such small portions».</string>
     <string name="split_text">* * *</string>
+
     <string name="omens_header">Omens</string>
     <string name="firstOmen">Breaking a mirror brings seven years of trouble. However, if you put a piece of a mirror under the ground, the curse will disappear. The ancient Romans decided that a broken mirror would cause seven years of trouble; in fact, at the time there was a belief that life would renew itself every seven years.</string>
     <string name="secondOmen">This is undoubtedly one of the most widespread beliefs throughout Italy and beyond, but why should the crossing of a black cat be a bad omen? To discover the origin of this superstition, one must go back to the Middle Ages.</string>
@@ -29,6 +24,14 @@
     <string name="firstOmenTitle"><u>Break a Mirror</u></string>
     <string name="secondOmenTitle"><u>Black cat</u></string>
     <string name="thirdOmenTitle"><u>Candle’s wax</u></string>
+    <string name="citations_header">Citations</string>
+
+    <string name="firstCitation">"The greatest glory in living lies not in never falling, but in rising every time we fall".</string>
+    <string name="secondCitation">"The way to get started is to quit talking and begin doing".</string>
+    <string name="thirdCitation">"Your time is limited, so don\'t waste it living someone else\'s life. Don\'t be trapped by dogma – which is living with the results of other people's thinking".</string>
+    <string name="firstCitationAuthor">-Nelson Mandela</string>
+    <string name="secondCitationAuthor">-Walt Disney</string>
+    <string name="thirdCitationAuthor">-Steve Jobs</string>
 
 
 </resources>

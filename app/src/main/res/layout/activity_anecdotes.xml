@@ -65,7 +65,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/split_text"
-                    style="@style/tvAnecdotes"/>
+                    style="@style/Splitter"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -77,7 +77,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/split_text"
-                    style="@style/tvAnecdotes"/>
+                    style="@style/Splitter"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -85,10 +85,8 @@
                     android:text="@string/thirdAnecdote"
                     style="@style/tvAnecdotes"/>
 
-
             </LinearLayout>
 
         </LinearLayout>
-
 
 </RelativeLayout>

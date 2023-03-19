@@ -8,13 +8,11 @@
     android:orientation="vertical"
     android:background="@color/main_background">
 
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:padding="30dp"
         android:orientation="vertical">
-
 
         <LinearLayout
             android:id="@+id/llMainMenuHeader"

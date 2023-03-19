@@ -12,6 +12,9 @@
         android:theme="@style/Theme.All_by_Three"
         tools:targetApi="31">
         <activity
+            android:name=".CitationsActivity"
+            android:exported="false" />
+        <activity
             android:name=".OmensActivity"
             android:exported="false" />
         <activity
